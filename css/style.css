@@ -123,7 +123,7 @@ section {
   padding: 20px;
   margin-bottom: 20px;
 }
- 
+
 header {
   position: fixed;
   top: 0;
@@ -148,7 +148,7 @@ header {
   width: 40px;
   z-index: 1;
 }
- 
+
 #social  a {
   display: block;
   width: 40px;
